@@ -1,5 +1,5 @@
 body{
-  background-color: #063970;
+  background-color: #873e23;
   margin: 0;
   min-height: 100vh;
   display: flex;
@@ -73,7 +73,7 @@ button {
 }
 
 h5{
-	font-family: 'Courgette', cursive;
+	font-family: Arial, sans-serif;
 	color: #94ef1b;
 }
 
